@@ -1,0 +1,39 @@
+[
+    {
+        "title": "project A",
+        "imagesrc": "src/Todoimg.jpeg",
+        "description": "This is a project made to learn the lastest ",
+        "skills": [
+            "React",
+            "Express",
+            "Node"
+        ],
+        "demo": "",
+        "Source": ""
+    },
+    {
+        "title": "project B",
+        "imagesrc": "src/calculateimg.jpeg",
+        "description": "This is a project made to learn the lastest ",
+        "skills": [
+            "React",
+            "Express",
+            "Node",
+            "sass"
+        ],
+        "demo": "",
+        "Source": ""
+    },
+    {
+        "title": "project C",
+        "imagesrc": "src/formimg.jpeg",
+        "description": "This is a project made to learn the lastest ",
+        "skills": [
+            "React",
+            "Express",
+            "Node"
+        ],
+        "demo": "",
+        "Source": ""
+    }
+]
